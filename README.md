@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git Repositiry](https://github.com/Robert-Thaiyah/testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Repository](https://github.com/Robert-Thaiyah/testimonials-grid-section)
+- Live Site URL: [Live site URL](https://robert-thaiyah.github.io/testimonials-grid-section/)
 
 ## My process
 
