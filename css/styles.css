@@ -11,16 +11,16 @@
 
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
-    display: grid;
-    place-content: center;
-    height: 100vh;
-    min-width: 100%;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;  
     background-color: hsl(210, 46%, 95%);
-    margin: 1em;
+    margin: 2em;
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 h2 {
@@ -74,7 +74,7 @@ img {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     background-image: url(../images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
-    background-position: right 10em top;
+    background-position: right 30% top;
     background-size: 10em;
 }
 
