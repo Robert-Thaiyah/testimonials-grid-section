@@ -17,6 +17,7 @@ body {
     min-height: 100vh;  
     background-color: hsl(210, 46%, 95%);
     margin: 2em;
+    padding: 50px 10px;
 }
 
 .title {
@@ -28,7 +29,7 @@ h2 {
 }
 
 .content {
-    font-size: 1.3em;
+    font-size: 1em;
     opacity: 70%;
     margin-top: -10px;
 }
@@ -60,6 +61,7 @@ img {
     'five';
     max-width: 90rem;
     margin: 0 auto;
+    height: 50%;
 }
 
 /* article Specifications*/
